@@ -1,0 +1,96 @@
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1448653206862">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="master_a-master.css" crc="4098826557" ref="medicos:form-medicos:index:noticias:quienes-somos:empresas:politica-de-privacidad"/>
+    <file name="medicos.css" crc="4183509486" ref="medicos"/>
+    <file name="form-medicos.css" crc="3784889885" ref="form-medicos"/>
+    <file name="index.css" crc="340187365" ref="index"/>
+    <file name="noticias.css" crc="195168808" ref="noticias"/>
+    <file name="quienes-somos.css" crc="310514182" ref="quienes-somos"/>
+    <file name="empresas.css" crc="4067664231" ref="empresas"/>
+    <file name="politica-de-privacidad.css" crc="3960771749" ref="politica-de-privacidad"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="museutils.js" crc="135030331" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="jquery.watch.js" crc="377079819" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="pie.js" crc="3827607177" ref="index:medicos:empresas:quienes-somos:form-medicos:noticias"/>
+    <file name="webpro.js" crc="221070874" ref="index:empresas:form-medicos"/>
+    <file name="musewpslideshow.js" crc="4100426672" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="451237455" ref="index"/>
+    <file name="touchswipe.js" crc="381331978" ref="index"/>
+    <file name="form_check.php" crc="4099280525" ref="index:empresas:form-medicos"/>
+    <file name="form_throttle.php" crc="354368968" ref="index:empresas:form-medicos"/>
+    <file name="form_process.php" crc="4059645761" ref="index:empresas:form-medicos"/>
+    <file name="form-u339.php" crc="149648077" ref="index"/>
+    <file name="form-u826.php" crc="3766977451" ref="empresas"/>
+    <file name="form-u1313.php" crc="375043452" ref="form-medicos"/>
+  </folder>
+  <folder name="images">
+    <file name="u173-grad.png" crc="418930844" ref="index"/>
+    <file name="logo2.png" crc="230080749" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="buscar.png" crc="503256047" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="facebook.jpg" crc="4009474630" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="twitter.jpg" crc="4161432069" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="shadow2.png" crc="3819465539" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="shadow.png" crc="3851878814" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="logo_mini.png" crc="109921539" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="wall_1.jpg" crc="3833852527" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="wall_2.jpg" crc="172291242" ref="index"/>
+    <file name="wall_3.jpg" crc="4261582376" ref="index"/>
+    <file name="wall_4.jpg" crc="4272526895" ref="index"/>
+    <file name="wall_1-crop-u150.jpg" crc="4292548877" ref="index"/>
+    <file name="wall_2-crop-u105.jpg" crc="3981684279" ref="index"/>
+    <file name="wall_3-crop-u120.jpg" crc="179070265" ref="index"/>
+    <file name="wall_4-crop-u135.jpg" crc="3932542761" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="noun_118296_cc-u294.png" crc="100805338" ref="index"/>
+    <file name="bg_mastheader_6.jpg" crc="4081936406" ref="index"/>
+    <file name="servicios1.jpg" crc="4014196681" ref="index"/>
+    <file name="servicios3.jpg" crc="3857283879" ref="index"/>
+    <file name="servicios4.jpg" crc="111323302" ref="index"/>
+    <file name="servicios2.jpg" crc="148490285" ref="index"/>
+    <file name="noun_282_cc-u331.png" crc="4073421424" ref="index"/>
+    <file name="promo1.jpg" crc="4051759291" ref="index"/>
+    <file name="promo2.jpg" crc="50326393" ref="index"/>
+    <file name="promo1-crop-u1133.jpg" crc="343271134" ref="index"/>
+    <file name="promo2-crop-u1187.jpg" crc="3919396971" ref="index"/>
+    <file name="u345-17.png" crc="275878378" ref="index"/>
+    <file name="u345-17-r.png" crc="272816452" ref="index"/>
+    <file name="u345-17-m.png" crc="272816452" ref="index"/>
+    <file name="u345-17-fs.png" crc="449908049" ref="index"/>
+    <file name="bg_footer2.jpg" crc="511905759" ref="index"/>
+    <file name="logo2_white.png" crc="3885632003" ref="index:medicos:empresas:quienes-somos:form-medicos:politica-de-privacidad:noticias"/>
+    <file name="w_doctor1.jpg" crc="173996405" ref="medicos"/>
+    <file name="screen shot 2015-10-29 at 92922 am.jpg" crc="456118450" ref="medicos"/>
+    <file name="medico1.jpg" crc="506981250" ref="medicos"/>
+    <file name="medico5.jpg" crc="4163889369" ref="medicos"/>
+    <file name="medico3.jpg" crc="4156579408" ref="medicos"/>
+    <file name="medico4.jpg" crc="4102378361" ref="medicos"/>
+    <file name="medico2.jpg" crc="4067586298" ref="medicos"/>
+    <file name="flecha_arriba.png" crc="364636157" ref="medicos"/>
+    <file name="w_doctor2.jpg" crc="416868137" ref="medicos:form-medicos"/>
+    <file name="conoce.jpg" crc="308629183" ref="medicos:form-medicos"/>
+    <file name="empresas.jpg" crc="3897004151" ref="empresas"/>
+    <file name="u866-17.png" crc="157436056" ref="empresas"/>
+    <file name="u866-17-r.png" crc="524730921" ref="empresas"/>
+    <file name="u866-17-m.png" crc="288812420" ref="empresas"/>
+    <file name="u866-17-fs.png" crc="242284319" ref="empresas"/>
+    <file name="noun_118296_cc-u1034.png" crc="100805338" ref="quienes-somos"/>
+    <file name="quienes.jpg" crc="58638236" ref="quienes-somos"/>
+    <file name="u1325-25.png" crc="220947980" ref="form-medicos"/>
+    <file name="u1325-25-r.png" crc="265553125" ref="form-medicos"/>
+    <file name="u1325-25-m.png" crc="265553125" ref="form-medicos"/>
+    <file name="u1325-25-fs.png" crc="3827111933" ref="form-medicos"/>
+    <file name="noticias.jpg" crc="4263789906" ref="noticias"/>
+    <file name="img_noticias.png" crc="441604069" ref="noticias"/>
+  </folder>
+  <file name="index.html" crc="175444581" mt="1448653174701" redirect="true"/>
+  <file name="medicos.html" crc="4282261223" mt="1448653174701" redirect="true"/>
+  <file name="empresas.html" crc="4149575008" mt="1448653174702" redirect="true"/>
+  <file name="quienes-somos.html" crc="3970711503" mt="1448653174703" redirect="true"/>
+  <file name="form-medicos.html" crc="3768421210" mt="1448653204608" redirect="true"/>
+  <file name="politica-de-privacidad.html" crc="3803236367" mt="1448653174704" redirect="true"/>
+  <file name="noticias.html" crc="481399055" mt="1448653174705" redirect="true"/>
+</manifest>
